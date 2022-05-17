@@ -1,0 +1,65 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated":false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1641956-1",
+			"native": "R-M-1641956-2",
+			"interstitial": "R-M-1641956-3"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.momspid.spiddab",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [
+{
+"title": "Guide 1",
+"description": "mommy long legs is not a game but a guide and tips for fans ofmommy long legs Games Horror and Adventure PlaytimeCo. In the plot of this Poppy Playtime game, all the factory employees suddenly disappeared one day. The place was deserted for many years. Inmommy long legs." 
+},
+		{
+"title": "Guide 2",
+"description": "mommy Playtime Chapter 1 is the first multi-chapter puzzle adventure game about the abandoned Playtime among us."
+		},
+		{
+"title": "Guide 3",
+"description": "guide and tips for mommy long legs spidermommy long legs is a beautiful horror game in which the player plays as a former employee of Playtime.In Poppy Playtime b srp game let your imagination run wild in a fascinating and exciting environment and unfamiliar challenges within this challenging Poppy Escape Chapter 2 mommy long legs."
+		},
+		{
+"title": "Guide 4  ",
+"description": "the mommy and let your imagination lose in an unfamiliar environment inside this amazing poppy escape challenge Chapter 2 mommy long legs."
+		},
+		{
+"title": "Guide 5",
+"description": "This app contains only information and guide aboutmommy long legs and not the official game.Please be aware that this is not an official Poppy Playtime app. All rights belong to the developers of Poppy"
+		}
+	]
+}
